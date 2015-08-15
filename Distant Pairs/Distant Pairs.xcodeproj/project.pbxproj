@@ -411,6 +411,7 @@
 				CA95323B1B7CBCD300FA5016 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA95323C1B7CBCD300FA5016 /* Build configuration list for PBXNativeTarget "Distant PairsTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				CA95323E1B7CBCD300FA5016 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
